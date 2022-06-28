@@ -1,0 +1,11 @@
+
+  Anotações aula 01
+
+  o que faz o JS?
+  praticamente tudo relacionado ao desenvolvimento web.
+
+   Para o desenvolvimento WEB o JS funciona em parceria com outras dua linguagens,
+   o CSS responsável pelo design,
+   o HTML responsável pelo conteudo,
+   o JS responsável pela interação do site.
+   
