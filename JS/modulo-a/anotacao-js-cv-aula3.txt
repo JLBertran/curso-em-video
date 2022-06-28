@@ -1,0 +1,13 @@
+
+ anotações aula 3 
+
+ metodos de aprendizado : 
+ * leituras de livros 
+ JS Guia Definitivo
+ JS Guia do Programador
+ * anotações constantes
+ * documentos JS 
+ guia de referencia Mozilla
+ guia de referencia ECMA
+
+

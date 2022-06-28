@@ -1,0 +1,28 @@
+
+Anotações aula 02
+
+ Diferenças do Java e JavaScript
+
+ o Java e o JavaScript são liguanges bem diferente entre si,
+ o Java foi lançado antes do JavaScript, e as 2 foram baseadas na 
+ linguagem C, ou seja o nome JavaScript foi apenas uma jogada de marketing
+ pois o nome anterior era Mocca.
+ ECMA é basicamente uma padronização do JS.
+ Node js é uma maquina que roda JS fora do navegador. 
+
+tecnologias para criação de jogos em JS:
+Phaser 
+PixiJS
+Impact
+melon.js
+craftyJS
+
+
+01 - Qual a empresa que criou o JS ?
+ NetScape
+02 - Java e JS possuem alguma relação?
+ a unica relação que tem é a penas o nome, que foi uma jogada de marketing
+ da empresa NetScape.
+03 - o que o ECMAScript tem a ver com JS ?
+ o ECMA é simplesmente o JS padronizado internacionalmente. 
+ 

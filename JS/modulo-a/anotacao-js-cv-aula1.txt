@@ -1,0 +1,28 @@
+
+  Anotações aula 01
+
+  o que faz o JS?
+  praticamente tudo relacionado ao desenvolvimento web.
+
+    Para o desenvolvimento WEB o JS funciona em parceria com outras dua linguagens,
+    o CSS responsável pelo design,
+    o HTML responsável pelo conteudo,
+    o JS responsável pela interação do site.
+   
+   01 - Qual a diferença entre um cliente e o servidor para a internet ?
+    O cliente é o usuario padrão da web, aquele que recebe as informações.
+    o servidor é o fornecedor dessas informações, que sempre envia cópias dos dados
+    armazenados para o cliente usuário.
+
+   02 - Para que serve HTML, CSS e JavaScript ?
+    HTML - responsável pela ccriação do conteudo do site web.
+    CSS - responsável pelo design do site web.
+    JS - reponsável por toda interação inteligente do site web.
+
+   03 - cite 4 sites que fazem uso do JS:
+    Facebook
+    Google
+    Youtube
+    Netflix
+
+    
